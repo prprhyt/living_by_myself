@@ -55,6 +55,20 @@
 
 - [【初心者向け】一人暮らしのルーチン家事リスト](http://enodamina.hatenablog.com/entry/2016/01/21/221524)
 
+### 注意事項
+
+#### 火災対策
+- 揚げ物鍋に蓋をしてはいけない(火柱があがるため): https://twitter.com/wogikubomushi/status/1336335342190776332?s=20
+- 油からの引火の場合は直接水をかけてはいけない
+  - 消火器かマヨネーズをつかう
+  - 天ぷら油火災（消火器具）: http://nrifd.fdma.go.jp/public_info/faq/tenpura_shokaki/index.html
+  - 天ぷら油火災（マヨネーズでの消火）: http://nrifd.fdma.go.jp/public_info/faq/tenpura_mayonnaise/index.html
+  
+
+#### 食材の扱いの注意事項
+- たまねぎは生のままだと毒性があるので水にさらす
+- 
+
 ### 自炊
 
 #### 食材
