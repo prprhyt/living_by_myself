@@ -60,7 +60,7 @@
 #### 火災対策
 - 揚げ物鍋に蓋をしてはいけない(火柱があがるため): https://twitter.com/wogikubomushi/status/1336335342190776332?s=20
 - 油からの引火の場合は直接水をかけてはいけない
-  - 消火器かマヨネーズをつかう
+  - 消火器を使う．基本的には**マヨネーズでは消せない**
   - 天ぷら油火災（消火器具）: http://nrifd.fdma.go.jp/public_info/faq/tenpura_shokaki/index.html
   - 天ぷら油火災（マヨネーズでの消火）: http://nrifd.fdma.go.jp/public_info/faq/tenpura_mayonnaise/index.html
   
